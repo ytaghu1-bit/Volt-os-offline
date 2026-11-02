@@ -1,0 +1,8 @@
+VOLT OS Lite Android source + GitHub Actions build workflow
+
+Upload ALL files and folders INSIDE this ZIP to the ROOT of your GitHub repository.
+Do not upload the ZIP as a single file and do not put files in an extra VOLT_OS_Lite folder.
+GitHub mobile web upload may not preserve nested folders. If so, use GitHub Codespaces or a Git client that supports uploading a folder.
+Then open GitHub Actions > Build VOLT OS Lite APK > Run workflow.
+The output is a debug APK, not a flashable operating system.
+Not compiled or tested on Vivo 1820. GPS accuracy and FM app availability vary.
